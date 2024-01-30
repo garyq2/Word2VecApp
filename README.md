@@ -1,7 +1,7 @@
 Word2Vec
 ==============================
 
-API for interacting with GENSUM with interactive visualizations.
+API for interacting with a "gensim" Word2Vec model ran as a single page dasboard in "streamlit" to interact with.
 
 Project Organization
 ------------
