@@ -1,0 +1,6 @@
+conda create --name wtv
+conda activate wtv
+conda install pip
+$CONDA_PREFIX/bin/pip install -r requirements.txt
+#####conda install --file requirements.txt
+conda env export --name wtv --file environment.yml
