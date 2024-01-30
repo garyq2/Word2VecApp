@@ -1,4 +1,4 @@
-Word2Vec
+Word2VecApp
 ==============================
 
 API for interacting with a "gensim" Word2Vec model ran as a single page dasboard in "streamlit" to interact with.
